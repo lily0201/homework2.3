@@ -1,0 +1,4 @@
+source;share/elgamal_client/local_setup.bash
+source;share/elgamal_client/local_setup.dsv
+source;share/elgamal_client/local_setup.sh
+source;share/elgamal_client/local_setup.zsh
